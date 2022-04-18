@@ -1,5 +1,7 @@
 # 우아한테크코스 영상 근로
 
+## 주간 회의
+매주 수요일 오전 11시~11시 30분
 
 ## 링크
 - [구글 드라이브](https://drive.google.com/drive/folders/1nLIKN0Es1l1cZ0L7lSWar-K8eta0Lnln?usp=sharing)
