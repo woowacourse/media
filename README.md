@@ -9,7 +9,7 @@
 - [테코톡 리스트](https://docs.google.com/spreadsheets/d/1LVW-5Oz73yMhcn4RO8HLOZCPo7y7NoEP6yo0MVDPUrk/edit?usp=sharing)
 
 ## MC 순서
-- [ ] 쿤
+- [x] 쿤
 - [ ] 소주캉
 - [ ] 오리
 - [ ] 더즈
