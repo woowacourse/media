@@ -23,3 +23,23 @@
 - [ ] 코라콜라
 - [ ] 크리스
 - [ ] 디우
+
+## 우테뷰
+|![](https://github.com/jinyoungchoi95.png?size=100)|![](https://github.com/sure-why-not.png?size=100)|![](https://github.com/OzRagwort.png?size=100)|
+|:-:|:-:|:-:|
+|[오리](https://github.com/jinyoungchoi95)|[라라](https://github.com/sure-why-not)|[알린](https://github.com/OzRagwort)|
+
+## 브이로그
+|![](https://github.com/Byeongju-Kong.png?size=100)|![](https://github.com/tco0427.png?size=100)|![](https://github.com/intae92.png?size=100)|
+|:-:|:-:|:-:|
+|[크리스](https://github.com/Byeongju-Kong)|[디우](https://github.com/tco0427)|[코카콜라](https://github.com/intae92)|
+
+## 테코톡(자막)
+|![](https://github.com/Hongdonggeon.png?size=100)|![](https://github.com/jswith.png?size=100)|![](https://github.com/ldk980130.png?size=100)|![](https://github.com/ronci.png?size=100)|
+|:-:|:-:|:-:|:-:|
+|[쿤](https://github.com/Hongdonggeon)|[민초](https://github.com/jswith)|[더즈](https://github.com/ldk980130)|[우연](https://github.com/ronci)|
+
+## 테코톡(편집)
+|![](https://github.com/sojukang.png?size=100)|![](https://github.com/DomMorello.png?size=100)|![](https://github.com/sinb57.png?size=100)|![](https://github.com/devHudi.png?size=100)|
+|:-:|:-:|:-:|:-:|
+|[소주캉](https://github.com/sojukang)|[돔하디](https://github.com/DomMorello)|[이프](https://github.com/sinb57)|[후디](https://github.com/devHudi)|
