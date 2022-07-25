@@ -15,10 +15,10 @@
 - [x] 더즈
 - [x] 돔하디
 - [x] 이프
-- [ ] 라라
-- [ ] 알린
-- [ ] 우연
-- [ ] 후디
+- [x] 라라
+- [x] 알린
+- [x] 우연
+- [x] 후디
 - [ ] 민초
 - [ ] 코라콜라
 - [ ] 크리스
@@ -34,12 +34,12 @@
 |:-:|:-:|:-:|
 |[크리스](https://github.com/Byeongju-Kong)|[디우](https://github.com/tco0427)|[코카콜라](https://github.com/intae92)|
 
-## 테코톡(자막)
-|![](https://github.com/Hongdonggeon.png?size=100)|![](https://github.com/jswith.png?size=100)|![](https://github.com/ldk980130.png?size=100)|![](https://github.com/ronci.png?size=100)|
+## 테코톡
+|![](https://github.com/sojukang.png?size=100)|![](https://github.com/jswith.png?size=100)|![](https://github.com/devHudi.png?size=100)|![](https://github.com/ronci.png?size=100)|
 |:-:|:-:|:-:|:-:|
-|[쿤](https://github.com/Hongdonggeon)|[민초](https://github.com/jswith)|[더즈](https://github.com/ldk980130)|[우연](https://github.com/ronci)|
+|[소주캉](https://github.com/sojukang)|[민초](https://github.com/jswith)|[후디](https://github.com/devHudi)|[우연](https://github.com/ronci)|
 
-## 테코톡(편집)
-|![](https://github.com/sojukang.png?size=100)|![](https://github.com/DomMorello.png?size=100)|![](https://github.com/sinb57.png?size=100)|![](https://github.com/devHudi.png?size=100)|
+## 행사
+|![](https://github.com/Hongdonggeon.png?size=100)|![](https://github.com/DomMorello.png?size=100)|![](https://github.com/sinb57.png?size=100)|![](https://github.com/ldk980130.png?size=100)|
 |:-:|:-:|:-:|:-:|
-|[소주캉](https://github.com/sojukang)|[돔하디](https://github.com/DomMorello)|[이프](https://github.com/sinb57)|[후디](https://github.com/devHudi)|
+|[쿤](https://github.com/Hongdonggeon)|[돔하디](https://github.com/DomMorello)|[이프](https://github.com/sinb57)|[더즈](https://github.com/ldk980130)|
